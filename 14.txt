@@ -1,0 +1,2 @@
+x = logspace(-5,5,7)
+%logarithmic vector spacing
